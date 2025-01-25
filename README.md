@@ -54,9 +54,9 @@ open index.html
 For Software:
 
 # Screenshots (Add at least 3)
-![Landing Page](https://github.com/gayathri992/PharmaGuide/blob/main/images/1) \
-![Medicine Query](https://github.com/gayathri992/PharmaGuide/blob/main/images/2) \
-![Results](https://github.com/gayathri992/PharmaGuide/blob/main/images/3)
+![Landing Page](https://github.com/gayathri992/PharmaGuide/blob/main/images/1.png) \
+![Medicine Query](https://github.com/gayathri992/PharmaGuide/blob/main/images/2.png) \
+![Results](https://github.com/gayathri992/PharmaGuide/blob/main/images/3.png)
 
 
 ### Project Demo
